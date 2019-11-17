@@ -1,1 +1,1 @@
-# google_aut_pom
+### Automation Example of Google HomePage with the Page Object Model Pattern
